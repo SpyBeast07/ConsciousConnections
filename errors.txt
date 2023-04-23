@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 3: expected end of line
+    play music "audio/River_flows_in_you.mp3" loop true
+                                                   ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Apr 23 11:42:09 2023
